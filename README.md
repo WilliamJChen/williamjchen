@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm William 👋
 
+- Currently CS @ University of Waterloo '27
+- Interested in software engineering and machine learning
+- Love building things
+- Worked @:
+  - Walmart, SWE intern
+  - Xero, Data Engineering intern
+  
 <!--
 **williamjchen/williamjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
