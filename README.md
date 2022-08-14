@@ -4,7 +4,7 @@
 - 🤔 Interested in software engineering and machine learning
 - 🛠️ Love building things
 - ⚡Worked @:
-  - Walmart, SWE intern
+  - Walmart Global Tech, SWE intern
   - Xero, Data Engineering intern
   
 <!--
