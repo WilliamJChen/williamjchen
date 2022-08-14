@@ -1,9 +1,9 @@
 ### Hi there, I'm William 👋
 
-- Currently CS @ University of Waterloo '27
-- Interested in software engineering and machine learning
-- Love building things
-- Worked @:
+- 🌱 Currently CS @ University of Waterloo '27
+- 🤔 Interested in software engineering and machine learning
+- 🛠️ Love building things
+- ⚡Worked @:
   - Walmart, SWE intern
   - Xero, Data Engineering intern
   
