@@ -2,7 +2,7 @@
 
 - 🌱 Currently CS @ University of Waterloo '27
 - 🤔 Interested in software engineering and machine learning
-- 🛠️ Love building things
+- 🛠️ Enjoy building things
 - ⚡Worked @:
   - Walmart Global Tech, SWE intern
   - Xero, Data Engineering intern
