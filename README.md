@@ -1,6 +1,6 @@
 ### Hi there, I'm William 👋
 
-- 📚 Currently CS @ University of Waterloo '27
+- 📚 Currently CS @ University of Waterloo
 - 🤔 Interested in software engineering and machine learning
 - 🛠️ Enjoy building things
 - ⚡ Worked @:
