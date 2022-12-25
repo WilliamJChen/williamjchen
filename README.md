@@ -1,6 +1,6 @@
-### Hi there, I'm William
+### Hi there, I'm William 👋
 
-- Currently CS @ University of Waterloo
+- CS @ University of Waterloo
 - Worked @:
   - Walmart Global Tech, SWE intern
   - Xero, Data Engineering intern
