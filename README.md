@@ -8,7 +8,7 @@
 ## Projects
 Some of my Projects.
 
-| WIP -  |
+| WIP - Chess-terminal |
 | :--- |
 | A terminal app to play chess against other users and bots |
 | [GitHub](https://github.com/williamjchen/chess-terminal) &#124; C++ |
