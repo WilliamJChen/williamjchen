@@ -8,6 +8,11 @@
 ## Projects
 Some of my Projects.
 
+| WIP -  |
+| :--- |
+| A terminal app to play chess against other users and bots |
+| [GitHub](https://github.com/williamjchen/chess-terminal) &#124; C++ |
+
 | EyeGAN |
 | :--- |
 | A Generative Adversarial Network trained to generate new human eyes |
@@ -28,7 +33,7 @@ Some of my Projects.
 | Among Discord Bot |
 | :--- |
 | A discord bot + web client to mute and unmute users in a discord call|
-| [Github](https://github.com/williamjchen/AmoangOus) &#124; [GitHub](https://github.com/WilliamJChen/AmonagOusWebControl) &#124; Python |
+| [Github](https://github.com/williamjchen/AmoangOus) &#124; [GitHub](https://github.com/WilliamJChen/AmonagOusWebControl) &#124; Javascript, React.js |
   
 <!--
 **williamjchen/williamjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
