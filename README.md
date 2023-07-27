@@ -16,7 +16,12 @@ Some of my Projects.
 | EyeGAN |
 | :--- |
 | A Generative Adversarial Network trained to generate new human eyes |
-| [GitHub](https://github.com/paramt/1pt) &#124; Python, Tensorflow |
+| [GitHub](https://github.com/williamjchen/eyeGAN) &#124; Python, Tensorflow |
+
+| PokeGAN |
+| :--- |
+| A Generative Adversarial Network trained to generate new pokemon |
+| [GitHub](https://github.com/williamjchen/PokeGAN) &#124; Python, Tensorflow |
 
 | Ball Balance Robot |
 | :--- |
