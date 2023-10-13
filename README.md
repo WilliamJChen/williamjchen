@@ -1,9 +1,7 @@
 ### Hi there, I'm William 👋
 
 - CS @ University of Waterloo
-- Worked @:
-  - Walmart Global Tech, SWE intern
-  - Xero, Data Engineering intern
+- Prev @ TD, Walmart, Xero
 
 ## Projects
 Some of my Projects.
