@@ -2,7 +2,12 @@
 
 - CS @ University of Waterloo
 - Prev @ TD, Walmart, Xero
-  
+
+| TerminalChess |
+| :--- |
+| Play chess in your terminal through SSH |
+| [GitHub](https://github.com/williamjchen/terminalchess) &#124; Go |
+
 <!--
 ## Projects
 Some of my Projects.
