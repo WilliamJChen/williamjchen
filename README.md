@@ -8,10 +8,10 @@
 ## Projects
 Some of my Projects.
 
-| WIP - Chess-terminal |
+| TerminalChess |
 | :--- |
-| A terminal app to play chess against other users and bots |
-| [GitHub](https://github.com/williamjchen/chess-terminal) &#124; C++ |
+| Play chess in your terminal through SSH |
+| [GitHub](https://github.com/williamjchen/terminalchess) &#124; Go |
 
 | EyeGAN |
 | :--- |
