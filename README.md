@@ -2,7 +2,7 @@
 
 - CS @ University of Waterloo
 - Prev @ TD, Walmart, Xero
-- 
+  
 <!--
 ## Projects
 Some of my Projects.
