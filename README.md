@@ -2,7 +2,8 @@
 
 - CS @ University of Waterloo
 - Prev @ TD, Walmart, Xero
-
+- 
+<!--
 ## Projects
 Some of my Projects.
 
@@ -37,7 +38,7 @@ Some of my Projects.
 | :--- |
 | A discord bot + web client to mute and unmute users in a discord call|
 | [Github](https://github.com/williamjchen/AmoangOus) &#124; [GitHub](https://github.com/WilliamJChen/AmonagOusWebControl) &#124; Javascript, React.js |
-  
+  -->
 <!--
 **williamjchen/williamjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
