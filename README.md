@@ -1,7 +1,7 @@
 ### Hi there, I'm William 👋
 
 - CS @ University of Waterloo
-- Prev @ TD, Walmart, Xero
+- Prev @ HubSpot, TD, Walmart, Xero
 
 | TerminalChess |
 | :--- |
